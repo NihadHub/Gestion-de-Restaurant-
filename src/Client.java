@@ -3,8 +3,7 @@ import java.util.List;
 
 public class Client {
     int id;
-    List<C
-    ommande> commandes;
+    List<Commande> commandes;
 
     public Client(int id) {
         this.id = id;
