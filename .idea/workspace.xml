@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="907c6b2f-c358-4230-b573-b59b82506e12" name="Changes" comment="">
+    <list default="true" id="907c6b2f-c358-4230-b573-b59b82506e12" name="Changes" comment="modify Commande class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Commande.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Commande.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +67,15 @@
       <option name="presentableId" value="Default" />
       <updated>1763741470617</updated>
     </task>
+    <task id="LOCAL-00001" summary="modify Commande class">
+      <option name="closed" value="true" />
+      <created>1763744440891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763744440891</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modify Commande class" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify Commande class" />
   </component>
 </project>

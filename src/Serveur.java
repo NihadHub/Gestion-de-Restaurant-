@@ -16,7 +16,7 @@ public class ServeurVIP extends Serveur{
         super(id);
     }
 
-    public void serviceVIP(){
+    public static void serviceVIP(){
         System.out.println("Welcome to VIP service (^^)");
     }
 }
